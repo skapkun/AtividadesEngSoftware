@@ -1,0 +1,1 @@
+LINK MVP: https://miro.com/welcomeonboard/RTFscFhSb0psMG1vQUFQTW5hbld6dGhOdm5mMWhuSzBSTWhQYWIwdFdsckdGZmYyTE43VVNWTHh5WDNMU1lPVnwzNDU4NzY0NTkyMTUwMDEzODEwfDI=?share_link_id=115289342466

@@ -1,5 +1,8 @@
-Aula 3 e 4 (resumos) até dia 02/07: <b>Modelo Cascata</b> e Modelos Ágeis - Scrum 
-Aula 8 (DP) até dia 03/07
+-> Aula 3 e 4 (resumos) até dia 02/07: 
+    • <b>Modelo Cascata</b>
+    • <b>Modelos Ágeis - Scrum</b>
+
+-> Aula 8 (DP) até dia 03/07
 Aula 5 (scrum/kanban) até dia 10/07
 Aula 6 (MVP) até dia 10/07
 Aula 8 (UML) até 17/07

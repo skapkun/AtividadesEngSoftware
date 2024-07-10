@@ -2,10 +2,14 @@
     • <b>Modelo Cascata</b><br>
     • <b>Modelos Ágeis - Scrum</b>
 
--> Aula 8 (DP) até dia 03/07
-Aula 5 (scrum/kanban) até dia 10/07
-Aula 6 (MVP) até dia 10/07
-Aula 8 (UML) até 17/07
+-> Aula 8 (DP) até dia 03/07: <br>
+    • <b>Command Pattern</b><br>
+    
+-> Aula 5 (scrum/kanban) até dia 10/07
+
+-> Aula 6 (MVP) até dia 10/07
+    • <b>MVP PETSHOP</b><br>
+-> Aula 8 (UML) até 17/07
 Aula 9 (comp.) até 24/07
 Aula 10 (testes) até dia 24/07
 Aula 11 (git) até dia 30/07

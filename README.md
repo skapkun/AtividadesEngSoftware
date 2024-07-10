@@ -7,13 +7,18 @@
     
 -> Aula 5 (scrum/kanban) até dia 10/07
 
--> Aula 6 (MVP) até dia 10/07
+-> Aula 6 (MVP) até dia 10/07<br>
     • <b>MVP PETSHOP</b><br>
--> Aula 8 (UML) até 17/07
-Aula 9 (comp.) até 24/07
-Aula 10 (testes) até dia 24/07
-Aula 11 (git) até dia 30/07
-Trabalho Final apresentação dia 06/07
-Prova AV2 dia 23/07
+    • LINK MVP: https://miro.com/welcomeonboard/RTFscFhSb0psMG1vQUFQTW5hbld6dGhOdm5mMWhuSzBSTWhQYWIwdFdsckdGZmYyTE43VVNWTHh5WDNMU1lPVnwzNDU4NzY0NTkyMTUwMDEzODEwfDI=?share_link_id=115289342466<BR>
 
-LINK MVP: https://miro.com/welcomeonboard/RTFscFhSb0psMG1vQUFQTW5hbld6dGhOdm5mMWhuSzBSTWhQYWIwdFdsckdGZmYyTE43VVNWTHh5WDNMU1lPVnwzNDU4NzY0NTkyMTUwMDEzODEwfDI=?share_link_id=115289342466
+-> Aula 8 (UML) até 17/07<br>
+    • <b>Fragment.mfj</b><br>
+    • <b>UML PETSHOP</b><br>
+    • <b>Caso de Uso SIGAA</b><br>
+    
+Aula 9 (comp.) até 24/07<BR>
+Aula 10 (testes) até dia 24/07<BR>
+Aula 11 (git) até dia 30/07<BR>
+Trabalho Final apresentação dia 06/07<BR> 
+
+ 

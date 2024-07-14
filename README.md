@@ -9,8 +9,8 @@
 
 -> Aula 6 (MVP) até dia 10/07<br>
     • <b>Contexto: Tanto o MVP quanto os diagramas do segundo exercício da aula 8 foram esboçados como um software de delivery de serviços voltado para pets que lista petshops próximos. Por meio dele as empresas e profissionários conseguem disponibilizar seus serviços, e os clientes conseguem marcar consultas veterinárias, comprar produtos ou contratar serviços. </b><br>
-    • <b>MVP PETSHOP</b><br>
-    • LINK MVP: https://miro.com/welcomeonboard/RTFscFhSb0psMG1vQUFQTW5hbld6dGhOdm5mMWhuSzBSTWhQYWIwdFdsckdGZmYyTE43VVNWTHh5WDNMU1lPVnwzNDU4NzY0NTkyMTUwMDEzODEwfDI=?share_link_id=115289342466<BR>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• <b>MVP PETSHOP</b><br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• LINK MVP: https://miro.com/welcomeonboard/RTFscFhSb0psMG1vQUFQTW5hbld6dGhOdm5mMWhuSzBSTWhQYWIwdFdsckdGZmYyTE43VVNWTHh5WDNMU1lPVnwzNDU4NzY0NTkyMTUwMDEzODEwfDI=?share_link_id=115289342466<BR>
 
 -> Aula 8 (UML) até 17/07<br>
     • <b>Crie um diagrama de caso de uso de um software que você utiliza com pelo menos 2 atores: Caso de Uso Escolhido: <u>SIGAA</u></b><br>

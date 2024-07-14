@@ -14,8 +14,8 @@
 -> Aula 8 (UML) até 17/07<br>
     • <b>Crie um diagrama de caso de uso de um software que você utiliza com pelo menos 2 atores: Caso de Uso Escolhido: <u>SIGAA</u></b><br>
     • <b>Fragment.mfj</b><br>
-   &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;        • <b>Fragment.mfj</b><br>
-   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  • <b>UML PETSHOP</b><br>
+   &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;• <b>Fragment.mfj</b><br>
+   &nbsp;&nbsp;     &nbsp; &nbsp;&nbsp;• <b>UML PETSHOP</b><br>
     
     
 Aula 9 (comp.) até 24/07<BR>

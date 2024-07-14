@@ -12,9 +12,11 @@
     • LINK MVP: https://miro.com/welcomeonboard/RTFscFhSb0psMG1vQUFQTW5hbld6dGhOdm5mMWhuSzBSTWhQYWIwdFdsckdGZmYyTE43VVNWTHh5WDNMU1lPVnwzNDU4NzY0NTkyMTUwMDEzODEwfDI=?share_link_id=115289342466<BR>
 
 -> Aula 8 (UML) até 17/07<br>
+    • <b>Crie um diagrama de caso de uso de um software que você utiliza com pelo menos 2 atores: Caso de Uso Escolhido: <u>SIGAA</u></b><br>
     • <b>Fragment.mfj</b><br>
-    • <b>UML PETSHOP</b><br>
-    • <b>Caso de Uso SIGAA</b><br>
+   &nbsp;     • <b>Fragment.mfj</b><br>
+   &nbsp;      • <b>UML PETSHOP</b><br>
+    
     
 Aula 9 (comp.) até 24/07<BR>
 Aula 10 (testes) até dia 24/07<BR>

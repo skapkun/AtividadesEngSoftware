@@ -8,7 +8,7 @@
 -> Aula 5 (scrum/kanban) até dia 10/07
 
 -> Aula 6 (MVP) até dia 10/07<br>
-    • <b>Contexto: Tanto o MVP quanto os diagramas do segundo exercício da aula 8 foram esboçados como um software de delivery de serviços voltado para pets que lista petshops próximos. Por meio dele as empresas e profissionários conseguem disponibilizar seus serviços, e os clientes conseguem marcar consultas veterinárias, comprar produtos ou contratar serviços. </b><br>
+    • <b>Contexto: Tanto o MVP quanto os diagramas do segundo exercício da aula 8 foram esboçados como um software de delivery de serviços voltado para pets que lista petshops e veterinários próximos. Por meio dele as empresas e profissionários conseguem disponibilizar seus serviços, e os clientes conseguem marcar consultas veterinárias, comprar produtos ou contratar serviços. </b><br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• <b>MVP PETSHOP</b><br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• LINK MVP: https://miro.com/welcomeonboard/RTFscFhSb0psMG1vQUFQTW5hbld6dGhOdm5mMWhuSzBSTWhQYWIwdFdsckdGZmYyTE43VVNWTHh5WDNMU1lPVnwzNDU4NzY0NTkyMTUwMDEzODEwfDI=?share_link_id=115289342466<BR>
 

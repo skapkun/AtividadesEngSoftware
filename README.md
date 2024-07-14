@@ -1,5 +1,5 @@
 -> Aula 3 e 4 (resumos) até dia 02/07: <br>
-<p>    </p> • <b>Modelo Cascata</b><br> 
+  • <b>Modelo Cascata</b><br> 
     • <b>Modelos Ágeis - Scrum</b>
 
 -> Aula 8 (DP) até dia 03/07: <br>

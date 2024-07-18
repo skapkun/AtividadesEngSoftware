@@ -5,10 +5,13 @@
 -> Aula 8 (DP) até dia 03/07: <br>
     • <b>Command Pattern</b><br>
     
--> Aula 5 (scrum/kanban) até dia 10/07
+-> Aula 5 (scrum/kanban) até dia 10/07<br>
+• <b>Contexto: AmbuHub é um aplicativo que conecta pessoas interessadas em vender à pessoas interessadas em comprar. Nosso produto rastreia a localização dos possíveis clientes a vendedores ambulantes num raio de distância curto, onde o ambulante pode exibir sua cartela de produtos online, e os clientes próximos conseguem sinalizar para que o os dois se encontrem e efetuem o comércio. Além de facilitar um meio de pagamento seguro, o AmbuHub favorece a segurança das pessoas. </b><br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• <b>SCRUM/KANBAN: AmbuHub</b><br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• LINK MEISTERTASK: (https://www.meistertask.com/app/project/oYVL6P3k/ambuhub)
 
 -> Aula 6 (MVP) até dia 10/07<br>
-    • <b>Contexto: Tanto o MVP quanto os diagramas do segundo exercício da aula 8 foram esboçados como um software de delivery de serviços voltado para pets que lista petshops e veterinários próximos. Por meio dele as empresas e profissionários conseguem disponibilizar seus serviços, e os clientes conseguem marcar consultas veterinárias, comprar produtos ou contratar serviços. </b><br>
+    • <b>Contexto: Tanto o MVP quanto os diagramas do segundo exercício da aula 8 foram esboçados como um software de delivery de serviços voltado para pets que lista petshops e veterinários próximos. Por meio dele as empresas e profissionários conseguem disponibilizar seus serviços, e os clientes conseguem marcar consultas veterinárias, comprar produtos ou contratar serviços (banho, tosa, etc...). </b><br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• <b>MVP PETSHOP</b><br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• LINK MVP: https://miro.com/welcomeonboard/RTFscFhSb0psMG1vQUFQTW5hbld6dGhOdm5mMWhuSzBSTWhQYWIwdFdsckdGZmYyTE43VVNWTHh5WDNMU1lPVnwzNDU4NzY0NTkyMTUwMDEzODEwfDI=?share_link_id=115289342466<BR>
 

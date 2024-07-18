@@ -22,8 +22,9 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• <b>UML FRAGMENT CLASSE PETSHOP.mfj + UML PETSHOT CLASSE.mdj</b><br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• <b>UML CLASSE PETSHOP</b><br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• <b>DIAGRAMA DE SEQUÊNCIA PETSHOP</b><br> 
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• <b>CASO DE USO PETSHOP</b><br>  
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• <b>CASO DE USO PETSHOP</b>  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• <b>Caso de Uso SIGAA</b><br>  
+   
    Aula 9 (comp.) até 24/07<BR>
 Aula 10 (testes) até dia 24/07<BR>
 Aula 11 (git) até dia 30/07<BR>

@@ -18,7 +18,7 @@
 
 -> Aula 8 (UML) até 17/07<br>
     • <b>Crie um diagrama de caso de uso de um software que você utiliza com pelo menos 2 atores: 
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• <b>Caso de Uso SIGAA</b><br>  
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• <br><b>Caso de Uso SIGAA</b><br>  
     • <b>Crie diagramas de caso de uso, sequência e classe de um software que você gostaria de implementar (ex: seu MVP da atividade passada).</b><br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• <b>UML FRAGMENT CLASSE PETSHOP.mfj + UML PETSHOT CLASSE.mdj</b><br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• <b>UML CLASSE PETSHOP</b><br>

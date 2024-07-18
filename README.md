@@ -1,5 +1,6 @@
 -> Aula 3 e 4 (resumos) até dia 02/07: <br>
-  • <b>Modelo Cascata</b><br> 
+  • <b><a href="[https://github.com/skapkun/AtividadesEngSoftware/blob/main/Modelo%20Cascata.pdf]">Modelo Cascata</a>
+</b><br> 
     • <b>Modelos Ágeis - Scrum</b>
 
 -> Aula 8 (DP) até dia 03/07: <br>

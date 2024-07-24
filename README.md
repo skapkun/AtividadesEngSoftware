@@ -28,7 +28,7 @@
    
 -> Aula 9 (comp.) até 24/07<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• DIAGRAMA DE COMPONENTES.PDF<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• LINK DIAGRAMA: https://online.visual-paradigm.com/pt/share/book/diagrama-de-componentes-aluguel-de-carro-1u6aie2q3<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• LINK DIAGRAMA: https://online.visual-paradigm.com/pt/share/book/diagrama-de-componentes-aluguel-de-carro-1u6aie2q3<BR><br>
 Aula 10 (testes) até dia 24/07<BR>
 -> Aula 11 (git) até dia 30/07<BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• LINK REPOSITÓRIO: (https://github.com/skapkun/AtividadeAula11)<BR>

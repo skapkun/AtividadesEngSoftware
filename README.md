@@ -28,7 +28,9 @@
    
    Aula 9 (comp.) até 24/07<BR>
 Aula 10 (testes) até dia 24/07<BR>
-Aula 11 (git) até dia 30/07<BR>
+-> Aula 11 (git) até dia 30/07<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• LINK REPOSITÓRIO: (https://github.com/skapkun/AtividadeAula11)<BR>
+
 Trabalho Final apresentação dia 06/07<BR> 
 
  
